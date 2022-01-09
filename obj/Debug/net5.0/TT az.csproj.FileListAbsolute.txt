@@ -1,0 +1,32 @@
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.exe
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.deps.json
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.runtimeconfig.json
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.dll
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\ref\TT az.dll
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.pdb
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.dll
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\ref\TT az.dll
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.pdb
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.exe
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.deps.json
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.runtimeconfig.json
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.runtimeconfig.dev.json
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.dll
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\ref\TT az.dll
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\bin\Debug\net5.0\TT az.pdb
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.dll
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\ref\TT az.dll
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.pdb
+D:\OneDrive\Рабочий стол\FIREWOKS MANIA\Turbo.az\turbo_az_layihe (1)\turbo az layihe\TT az\TT az\obj\Debug\net5.0\TT az.genruntimeconfig.cache
